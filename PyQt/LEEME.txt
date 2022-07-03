@@ -1,0 +1,2 @@
+Para convertir un ui a py
+pyuic5 -x nombre.ui -o nombre.py
